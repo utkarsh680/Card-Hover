@@ -176,7 +176,7 @@ body{
         display: none;
     }
 }
-@media (max-width: 300px){
+@media (max-width: 270px){
     body{
         row-gap: 20px;
     }
@@ -194,7 +194,7 @@ body{
         display: none;
     }
 }
-@media (max-width: 300px){
+@media (max-width: 250px){
     body{
         row-gap: 20px;
     }
